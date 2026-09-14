@@ -2,6 +2,8 @@
 
 A small, local-first Retrieval-Augmented Generation app. Upload several documents, ask a question, and inspect the chunks that supported the answer.
 
+**Live demo:** [multi-document-rag-chatbot-9375c02e.fastapicloud.dev](https://multi-document-rag-chatbot-9375c02e.fastapicloud.dev/)
+
 ## Run with uv
 
 ```powershell
